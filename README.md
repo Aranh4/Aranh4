@@ -21,7 +21,7 @@ Here are some of the main technologies I work with:
 ![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=flat&logoColor=white)
 
 ## 📈 GitHub Stats
-Here’s a look at my GitHub activity and contributions:
+Here’s a look at my GitHub activity and contributions (not 100% accurate due to work inside github organizations):
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aranh4&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aranh4&layout=compact)
@@ -30,15 +30,22 @@ Here’s a look at my GitHub activity and contributions:
 ## 🏆 Projects & Highlights
 Here are some of the projects I’ve worked on that I’m proud of:
 
-- **Lua Compiler** – [https://github.com/Aranh4/LogCompCompiler](#)  
-  (Brief description of this project)
-- **Computer Vision - League of Legends** – [https://github.com/leofmandrade/CompVision](#)  
+- **Lua Compiler** 
+  [https://github.com/Aranh4/LogCompCompiler](#)  
+  Compiler made using Python to compile lua codes
+- **Computer Vision - League of Legends**
+ [https://github.com/leofmandrade/CompVision](#)  
   This is an application project that extracts data from images of a League of Legends match from a YouTube video. It uses computer vision to process player data over time and provides   
   an Excel file with the collected data
-- **Bau da Jequiti** – [Project Link](#)  
-  (Brief description of this project)
+- **Bau da Felicidade - Jequiti**
+- [https://github.com/desagil-2022-2/j-frontend](#)
+- [https://github.com/desagil-2022-2/j-backend](#)  
+  As a final project for Desenvolvimento Ágil (agile development), the class was subdivided in groups to code an application for one of the biggest cosmetics company in Brazil, thanks to 
+  a partnership between INSPER and Jequiti.
+- **Cloud Architecture Implementation on AWS with Terraform**
+- [https://github.com/Aranh4/CLOUDProjeto](#)
+- This project creates a cloud architecture on AWS using Terraform. The architecture includes the use of an Application Load Balancer (ALB), EC2 instances with Auto Scaling, and an RDS database.
 
-*(You can add more projects here as you update your profile)*
 
 ## 📫 Connect with Me
 - 📧 Email: [caranhatieri@gmail.com](mailto:caranhatieri@gmail.com)
