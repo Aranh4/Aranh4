@@ -27,27 +27,23 @@ Here’s a look at my GitHub activity and contributions:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aranh4&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aranh4)
 
-> To make the activity even more dynamic, feel free to add an activity graph from [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) here.
-
 ## 🏆 Projects & Highlights
 Here are some of the projects I’ve worked on that I’m proud of:
 
-- **Lua Compiler** – [Project Link](#)  
+- **Lua Compiler** – [https://github.com/Aranh4/LogCompCompiler](#)  
   (Brief description of this project)
-- **Computer Vision - League of Legends** – [Project Link](#)  
-  (Brief description of this project)
+- **Computer Vision - League of Legends** – [https://github.com/leofmandrade/CompVision](#)  
+  This is an application project that extracts data from images of a League of Legends match from a YouTube video. It uses computer vision to process player data over time and provides   
+  an Excel file with the collected data
 - **Bau da Jequiti** – [Project Link](#)  
   (Brief description of this project)
 
 *(You can add more projects here as you update your profile)*
 
 ## 📫 Connect with Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-
-## ⚡ Fun Facts
-(You could add some fun facts here, or leave this section out if you'd prefer a more strictly professional profile.)
-
+- 📧 Email: [caranhatieri@gmail.com](mailto:caranhatieri@gmail.com)
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/caio-de-camargo-aranha-tieri-b89389241/))
+  
 ---
 
 Thank you for stopping by my profile! I’m always excited to connect with others in the tech community, so feel free to reach out or explore my projects.
