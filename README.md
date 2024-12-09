@@ -21,7 +21,7 @@ Here are some of the main technologies I work with:
 ![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=flat&logoColor=white)
 
 ## 📈 GitHub Stats
-Here’s a look at my GitHub activity and contributions (not 100% accurate due to work inside github organizations):
+Here’s a look at my GitHub activity and contributions (not 100% accurate due to most work inside github organizations, see projects fore more):
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aranh4&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aranh4&layout=compact)
